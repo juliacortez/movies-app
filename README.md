@@ -8,7 +8,7 @@
 
 <h2>⚛️ﾠSobre</h2>
 Projeto frontend realizado durante o curso web fullstack da <a href="https://www.labenu.com.br/">Labenu</a>, seguindo os requisitos e design propostos no <a href="https://github.com/Promobit/front-end-challenge">case da Promobit</a>. O The Movies Database é um site de filmes que consome a API gratuita de filmes, <a href="https://developers.themoviedb.org/3/getting-started/introduction">The Movie Database</a> para mostrar filmes de acordo com a ordem de popularidade do dia. É possível filtrar os filmes através dos gêneros e também visualizar os detalhes dos filmes. Na página de detalhes se encontram informações como classificação indicativa, data de lançamento, duração, avaliação dos usuários, sinopse, produção, elenco e trailer, além de uma lista de filmes recomendados. 
-<em>Este projeto é responsivo para desktop e mobile. </em>
+<b>Este projeto é responsivo para desktop e mobile. </b>
 
 <h2>🔗 Link</h2>
 <a href="https://themoviesdb.surge.sh/">The Movies Database</a>
