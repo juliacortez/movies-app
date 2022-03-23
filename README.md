@@ -79,16 +79,16 @@ Além disto ter um editor para trabalhar com o código, para o desenvolvimento d
 ```bash
 # Clone este repositório
 # HTTPS
-$ git clone https://github.com/juliacortez/movies-app.git
+$ git clone https://github.com/juliacortez/the-movies-database.git
 
 # SSH
-$ git clone git@github.com:juliacortez/movies-app.git
+$ git clone git@github.com:juliacortez/the-movies-database.git
 
 # CLI
-$ gh repo clone juliacortez/movies-app
+$ gh repo clone juliacortez/the-movies-database
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd movies-app
+$ cd the-movies-database
 
 # Instale as dependências
 $ npm install
