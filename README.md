@@ -1,6 +1,10 @@
 <p align="center">
 <img src="https://i.ibb.co/6DS2mjN/Novo-Projeto.png" width="800px" alt="logo">
   </p>
+  
+  <p align="center">
+  <a href="https://github.com/juliacortez/movies-app/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/juliacortez/movies-app?color=blue&style=for-the-badge"></a>
+ </p>
 
 <h2>⚛️ﾠSobre</h2>
 Projeto frontend realizado durante o curso web fullstack da <a href="https://www.labenu.com.br/">Labenu</a>, seguindo os requisitos e design propostos no <a href="https://github.com/Promobit/front-end-challenge">case da Promobit</a>. O The Movies Database é um site de filmes que consome a API gratuita de filmes, <a href="https://developers.themoviedb.org/3/getting-started/introduction">The Movie Database</a> para mostrar filmes de acordo com a ordem de popularidade do dia. É possível filtrar os filmes através dos gêneros e também visualizar os detalhes dos filmes. Na página de detalhes se encontram informações como classificação indicativa, data de lançamento, duração, avaliação dos usuários, sinopse, produção, elenco e trailer, além de uma lista de filmes recomendados. 
