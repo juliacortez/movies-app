@@ -81,9 +81,6 @@ Além disto ter um editor para trabalhar com o código, para o desenvolvimento d
 # HTTPS
 $ git clone https://github.com/juliacortez/the-movies-database.git
 
-# SSH
-$ git clone git@github.com:juliacortez/the-movies-database.git
-
 # CLI
 $ gh repo clone juliacortez/the-movies-database
 
